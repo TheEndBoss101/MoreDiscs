@@ -27,7 +27,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 public class Sounds {
     public static final DeferredRegister<SoundEvent> REGISTRY = DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, MoreDiscsMod.MOD_ID);
 
-    public static final RegistryObject<SoundEvent> MUSIC_DISC_CALM4 = registerSoundEvents("music_disc.calm4");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_MAGNETIC_CIRCUIT = registerSoundEvents("music_disc.calm4");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_ALPHA = registerSoundEvents("music_disc.alpha");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_BEGINNING_2 = registerSoundEvents("music_disc.beginning_2");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_BOSS = registerSoundEvents("music_disc.boss");
