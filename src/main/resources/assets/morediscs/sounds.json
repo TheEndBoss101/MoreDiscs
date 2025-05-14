@@ -119,7 +119,80 @@
     ]
   },
 
+  "music_disc.null": {
+    "sounds": [
+      {
+        "name": "minecraft:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
 
+  "music_disc.ballad_of_the_cats": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/nether4",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.chrysopoeia": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/crimson_forest/chrysopoeia",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+
+  "music_disc.concrete_halls": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/nether1",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.dead_voxel": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/nether2",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.rubedo": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/nether_wastes/rubedo",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+
+  "music_disc.so_below": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/soulsand_valley/so_below",
+        "stream": true,
+        "volume": 0.5
+      }
+    ]
+  },
+
+  "music_disc.warmth": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nether/nether3",
+        "stream": true
+      }
+    ]
+  },
 
   "music.creative": {
     "sounds": [
@@ -249,113 +322,6 @@
         "volume": 0.4
       }
     ]
-  },
-  "music.nether.basalt_deltas": {
-    "sounds": [
-      {
-        "name": "minecraft:music/game/nether/nether1",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether2",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether3",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether4",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/soulsand_valley/so_below",
-        "stream": true,
-        "volume": 0.5,
-        "weight": 7
-      }
-    ]
-  },
-  "music.nether.crimson_forest": {
-    "sounds": [
-      {
-        "name": "minecraft:music/game/nether/crimson_forest/chrysopoeia",
-        "stream": true,
-        "volume": 0.5,
-        "weight": 7
-      },
-      {
-        "name": "minecraft:music/game/nether/nether1",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether2",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether3",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether4",
-        "stream": true
-      }
-    ]
-  },
-  "music.nether.nether_wastes": {
-    "sounds": [
-      {
-        "name": "minecraft:music/game/nether/nether1",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether2",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether3",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether4",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether_wastes/rubedo",
-        "stream": true,
-        "volume": 0.5,
-        "weight": 6
-      }
-    ]
-  },
-  "music.nether.soul_sand_valley": {
-    "sounds": [
-      {
-        "name": "minecraft:music/game/nether/nether1",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether2",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether3",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/nether4",
-        "stream": true
-      },
-      {
-        "name": "minecraft:music/game/nether/soulsand_valley/so_below",
-        "stream": true,
-        "volume": 0.5,
-        "weight": 7
-      }
-    ]
-  },
-  "music.nether.warped_forest": {
-    "sounds": []
   },
   "music.overworld.badlands": {
     "sounds": [

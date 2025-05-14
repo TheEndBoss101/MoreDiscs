@@ -49,6 +49,13 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_AXOLOTL.get());
             tabData.accept(Items.MUSIC_DISC_DRAGON_FISH.get());
             tabData.accept(Items.MUSIC_DISC_SHUNIJI.get());
+            tabData.accept(Items.MUSIC_DISC_BALLAD_OF_THE_CATS.get());
+            tabData.accept(Items.MUSIC_DISC_CHRUSOPOEIA.get());
+            tabData.accept(Items.MUSIC_DISC_CONCRETE_HALLS.get());
+            tabData.accept(Items.MUSIC_DISC_DEAD_VOXEL.get());
+            tabData.accept(Items.MUSIC_DISC_RUBEDO.get());
+            tabData.accept(Items.MUSIC_DISC_SO_BELOW.get());
+            tabData.accept(Items.MUSIC_DISC_WARMTH.get());
         }
     }
 

@@ -43,6 +43,13 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_AXOLOTL = registerSoundEvents("music_disc.axolotl");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_DRAGON_FISH = registerSoundEvents("music_disc.dragon_fish");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_SHUNIJI = registerSoundEvents("music_disc.shuniji");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_BALLAD_OF_THE_CATS = registerSoundEvents("music_disc.ballad_of_the_cats");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_CHRUSOPOEIA = registerSoundEvents("music_disc.chrysopoeia");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_CONCRETE_HALLS = registerSoundEvents("music_disc.concrete_halls");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_DEAD_VOXEL = registerSoundEvents("music_disc.dead_voxel");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_RUBEDO = registerSoundEvents("music_disc.rubedo");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_SO_BELOW = registerSoundEvents("music_disc.so_below");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_WARMTH = registerSoundEvents("music_disc.warmth");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return REGISTRY.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(MoreDiscsMod.MOD_ID, name)));
