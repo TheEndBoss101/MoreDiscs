@@ -2,9 +2,33 @@
   "music_disc.calm4": {
     "sounds": [
       {
-        "name": "morediscs:calm4",
+        "name": "morediscs:music/game/calm4",
         "stream": true,
         "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.creator": {
+    "sounds": [
+      {
+        "name": "morediscs:records/creator",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.creator_music_box": {
+    "sounds": [
+      {
+        "name": "morediscs:records/creator_music_box",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.precipice": {
+    "sounds": [
+      {
+        "name": "morediscs:records/precipice",
+        "stream": true
       }
     ]
   },

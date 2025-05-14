@@ -42,6 +42,10 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_FLOATING_TREES.get());
             tabData.accept(Items.MUSIC_DISC_MUTATION.get());
             tabData.accept(Items.MUSIC_DISC_MOOG_CITY_2.get());
+            tabData.accept(Items.MUSIC_DISC_CREATOR.get());
+            tabData.accept(Items.MUSIC_DISC_CREATOR_MUSIC_BOX.get());
+            tabData.accept(Items.MUSIC_DISC_PRECIPICE.get());
+            //tabData.accept(Items.MUSIC_DISC_TEARS.get());
         }
     }
 

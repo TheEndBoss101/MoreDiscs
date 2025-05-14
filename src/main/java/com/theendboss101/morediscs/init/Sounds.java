@@ -35,6 +35,10 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_FLOATING_TREES = registerSoundEvents("music_disc.floating_trees");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_MOOG_CITY_2 = registerSoundEvents("music_disc.moog_city_2");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_MUTATION = registerSoundEvents("music_disc.mutation");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_CREATOR = registerSoundEvents("music_disc.creator");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_CREATOR_MUSIC_BOX = registerSoundEvents("music_disc.creator_music_box");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_PRECIPICE = registerSoundEvents("music_disc.precipice");
+    //public static final RegistryObject<SoundEvent> MUSIC_DISC_TEARS = registerSoundEvents("music_disc.tears");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return REGISTRY.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(MoreDiscsMod.MOD_ID, name)));

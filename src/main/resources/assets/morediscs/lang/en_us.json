@@ -23,5 +23,17 @@
   "item.morediscs.music_disc_moog_city_2.desc": "C418 - Moog City 2",
 
   "item.morediscs.music_disc_mutation": "Music Disc",
-  "item.morediscs.music_disc_mutation.desc": "C418 - Mutation"
+  "item.morediscs.music_disc_mutation.desc": "C418 - Mutation",
+
+  "item.morediscs.music_disc_creator": "Music Disc",
+  "item.morediscs.music_disc_creator.desc": "Lena Raine - Creator",
+
+  "item.morediscs.music_disc_creator_music_box": "Music Disc",
+  "item.morediscs.music_disc_creator_music_box.desc": "Lena Raine - Creator (Music Box Version)",
+
+  "item.morediscs.music_disc_precipice": "Music Disc",
+  "item.morediscs.music_disc_precipice.desc": "Aaron Cherof - Precipice",
+
+  "item.morediscs.music_disc_tears": "Music Disc",
+  "item.morediscs.music_disc_tears.desc": "Amos Roddy - Tears"
 }
