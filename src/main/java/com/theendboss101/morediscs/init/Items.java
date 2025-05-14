@@ -52,6 +52,19 @@ public class Items {
     public static final RegistryObject<Item> MUSIC_DISC_SO_BELOW = REGISTRY.register("music_disc_so_below", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_SO_BELOW.get(), Rarity.RARE, 6380));
     public static final RegistryObject<Item> MUSIC_DISC_WARMTH = REGISTRY.register("music_disc_warmth", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_WARMTH.get(), Rarity.RARE, 4760));
 
+    public static final RegistryObject<Item> MUSIC_DISC_A_FAMILIAR_ROOM = REGISTRY.register("music_disc_a_familiar_room", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_A_FAMILIAR_ROOM.get(), Rarity.RARE, 4820));
+    public static final RegistryObject<Item> MUSIC_DISC_BROMELIAD = REGISTRY.register("music_disc_bromeliad", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_BROMELIAD.get(), Rarity.RARE, 6240));
+    public static final RegistryObject<Item> MUSIC_DISC_CRESCENT_DUNES = REGISTRY.register("music_disc_crescent_dunes", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_CRESCENT_DUNES.get(), Rarity.RARE, 4960));
+    public static final RegistryObject<Item> MUSIC_DISC_ECHO_IN_THE_WIND = REGISTRY.register("music_disc_echo_in_the_wind", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_ECHO_IN_THE_WIND.get(), Rarity.RARE, 5920));
+
+    public static final RegistryObject<Item> MUSIC_DISC_BIOME_FEST = REGISTRY.register("music_disc_biome_fest", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_BIOME_FEST.get(), Rarity.RARE, 7560));
+    public static final RegistryObject<Item> MUSIC_DISC_BLIND_SPOTS = REGISTRY.register("music_disc_blind_spots", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_BLIND_SPOTS.get(), Rarity.RARE, 6640));
+    public static final RegistryObject<Item> MUSIC_DISC_HAUNT_MUSKIE = REGISTRY.register("music_disc_haunt_muskie", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_HAUNT_MUSKIE.get(), Rarity.RARE, 7220));
+    public static final RegistryObject<Item> MUSIC_DISC_ARIA_MATH = REGISTRY.register("music_disc_aria_math", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_ARIA_MATH.get(), Rarity.RARE, 6200));
+    public static final RegistryObject<Item> MUSIC_DISC_DREITON = REGISTRY.register("music_disc_dreiton", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_DREITON.get(), Rarity.RARE, 9940));
+    public static final RegistryObject<Item> MUSIC_DISC_TASWELL = REGISTRY.register("music_disc_taswell", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_TASWELL.get(), Rarity.RARE, 10300));
+
+
     public static final RegistryObject<Item> MUSIC_DISC_CREATOR = REGISTRY.register("music_disc_creator", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_CREATOR.get(), Rarity.RARE, 3520));
     public static final RegistryObject<Item> MUSIC_DISC_CREATOR_MUSIC_BOX = REGISTRY.register("music_disc_creator_music_box", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_CREATOR_MUSIC_BOX.get(), Rarity.RARE, 1460));
     public static final RegistryObject<Item> MUSIC_DISC_PRECIPICE = REGISTRY.register("music_disc_precipice", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_PRECIPICE.get(), Rarity.RARE, 4880));

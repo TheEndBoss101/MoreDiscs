@@ -34,21 +34,30 @@ public class Tabs {
     public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
         MoreDiscsMod.LOGGER.debug("Registering tab " + tabData.getTabKey().location());
         if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            tabData.accept(Items.MUSIC_DISC_MAGNETIC_CIRCUIT.get());
-            tabData.accept(Items.MUSIC_DISC_BOSS.get());
-            tabData.accept(Items.MUSIC_DISC_END.get());
-            tabData.accept(Items.MUSIC_DISC_ALPHA.get());
+            // Main Menu
             tabData.accept(Items.MUSIC_DISC_BEGINNING_2.get());
             tabData.accept(Items.MUSIC_DISC_FLOATING_TREES.get());
-            tabData.accept(Items.MUSIC_DISC_MUTATION.get());
             tabData.accept(Items.MUSIC_DISC_MOOG_CITY_2.get());
-            tabData.accept(Items.MUSIC_DISC_CREATOR.get());
-            tabData.accept(Items.MUSIC_DISC_CREATOR_MUSIC_BOX.get());
-            tabData.accept(Items.MUSIC_DISC_PRECIPICE.get());
-            //tabData.accept(Items.MUSIC_DISC_TEARS.get());
+            tabData.accept(Items.MUSIC_DISC_MUTATION.get());
+            // Overworld
+            tabData.accept(Items.MUSIC_DISC_A_FAMILIAR_ROOM.get());
+            tabData.accept(Items.MUSIC_DISC_BROMELIAD.get());
+            tabData.accept(Items.MUSIC_DISC_CRESCENT_DUNES.get());
+            tabData.accept(Items.MUSIC_DISC_ECHO_IN_THE_WIND.get());
+
+            // Creative
+            tabData.accept(Items.MUSIC_DISC_BIOME_FEST.get());
+            tabData.accept(Items.MUSIC_DISC_BLIND_SPOTS.get());
+            tabData.accept(Items.MUSIC_DISC_HAUNT_MUSKIE.get());
+            tabData.accept(Items.MUSIC_DISC_ARIA_MATH.get());
+            tabData.accept(Items.MUSIC_DISC_DREITON.get());
+            tabData.accept(Items.MUSIC_DISC_TASWELL.get());
+
+            // Water
             tabData.accept(Items.MUSIC_DISC_AXOLOTL.get());
             tabData.accept(Items.MUSIC_DISC_DRAGON_FISH.get());
             tabData.accept(Items.MUSIC_DISC_SHUNIJI.get());
+            // Nether
             tabData.accept(Items.MUSIC_DISC_BALLAD_OF_THE_CATS.get());
             tabData.accept(Items.MUSIC_DISC_CHRUSOPOEIA.get());
             tabData.accept(Items.MUSIC_DISC_CONCRETE_HALLS.get());
@@ -56,6 +65,18 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_RUBEDO.get());
             tabData.accept(Items.MUSIC_DISC_SO_BELOW.get());
             tabData.accept(Items.MUSIC_DISC_WARMTH.get());
+            // End
+            tabData.accept(Items.MUSIC_DISC_BOSS.get());
+            tabData.accept(Items.MUSIC_DISC_END.get());
+            // End Poem
+            tabData.accept(Items.MUSIC_DISC_ALPHA.get());
+            // Removed
+            tabData.accept(Items.MUSIC_DISC_MAGNETIC_CIRCUIT.get());
+            // Backported
+            tabData.accept(Items.MUSIC_DISC_CREATOR.get());
+            tabData.accept(Items.MUSIC_DISC_CREATOR_MUSIC_BOX.get());
+            tabData.accept(Items.MUSIC_DISC_PRECIPICE.get());
+            //tabData.accept(Items.MUSIC_DISC_TEARS.get());
         }
     }
 

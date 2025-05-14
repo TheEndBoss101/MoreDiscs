@@ -50,6 +50,18 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_RUBEDO = registerSoundEvents("music_disc.rubedo");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_SO_BELOW = registerSoundEvents("music_disc.so_below");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_WARMTH = registerSoundEvents("music_disc.warmth");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_A_FAMILIAR_ROOM = registerSoundEvents("music_disc.a_familiar_room");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_BROMELIAD = registerSoundEvents("music_disc.bromeliad");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_CRESCENT_DUNES = registerSoundEvents("music_disc.crescent_dunes");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_ECHO_IN_THE_WIND = registerSoundEvents("music_disc.echo_in_the_wind");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_BIOME_FEST = registerSoundEvents("music_disc.biome_fest");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_BLIND_SPOTS = registerSoundEvents("music_disc.blind_spots");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_HAUNT_MUSKIE = registerSoundEvents("music_disc.haunt_muskie");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_ARIA_MATH = registerSoundEvents("music_disc.aria_math");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_DREITON = registerSoundEvents("music_disc.dreiton");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_TASWELL = registerSoundEvents("music_disc.taswell");
+
+
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return REGISTRY.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(MoreDiscsMod.MOD_ID, name)));
