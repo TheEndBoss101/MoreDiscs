@@ -35,10 +35,10 @@ public class Tabs {
         MoreDiscsMod.LOGGER.debug("Registering tab " + tabData.getTabKey().location());
         if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             tabData.accept(Items.MUSIC_DISC_MAGNETIC_CIRCUIT.get());
-            //tabData.accept(Items.MUSIC_DISC_BOSS.get());
-            //tabData.accept(Items.MUSIC_DISC_END.get());
+            tabData.accept(Items.MUSIC_DISC_BOSS.get());
+            tabData.accept(Items.MUSIC_DISC_END.get());
             tabData.accept(Items.MUSIC_DISC_ALPHA.get());
-            //tabData.accept(Items.MUSIC_DISC_BEGINNING_2.get());
+            tabData.accept(Items.MUSIC_DISC_BEGINNING_2.get());
         }
     }
 

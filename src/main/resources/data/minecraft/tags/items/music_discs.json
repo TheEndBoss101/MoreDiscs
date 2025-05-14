@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "morediscs:music_disc_alpha",
-    "morediscs:music_disc_magnetic_circuit"
+    "morediscs:music_disc_magnetic_circuit",
+    "morediscs:music_disc_boss",
+    "morediscs:music_disc_end",
+    "morediscs:music_disc_beginning_2"
   ]
 }
