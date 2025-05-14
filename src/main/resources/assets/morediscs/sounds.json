@@ -1,0 +1,26 @@
+{
+  "music_disc.calm4": {
+    "sounds": [
+      {
+        "name": "morediscs:calm4",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.alpha": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/end/credits",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.beginning_2": {
+    "sounds": [
+      {
+        "name": "minecraft:music/menu/beginning_2",
+        "stream": true
+      }
+    ]
+  }
+}
