@@ -40,6 +40,31 @@
       }
     ]
   },
+  "music_disc.floating_trees": {
+    "sounds": [
+      {
+        "name": "minecraft:music/menu/menu4",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.moog_city_2": {
+    "sounds": [
+      {
+        "name": "minecraft:music/menu/menu2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mutation": {
+    "sounds": [
+      {
+        "name": "minecraft:music/menu/menu1",
+        "stream": true
+      }
+    ]
+  },
+
 
   "music.creative": {
     "sounds": [

@@ -39,6 +39,9 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_END.get());
             tabData.accept(Items.MUSIC_DISC_ALPHA.get());
             tabData.accept(Items.MUSIC_DISC_BEGINNING_2.get());
+            tabData.accept(Items.MUSIC_DISC_FLOATING_TREES.get());
+            tabData.accept(Items.MUSIC_DISC_MUTATION.get());
+            tabData.accept(Items.MUSIC_DISC_MOOG_CITY_2.get());
         }
     }
 

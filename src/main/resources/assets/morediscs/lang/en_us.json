@@ -14,5 +14,14 @@
   "item.morediscs.music_disc_end.desc": "C418 - The End",
 
   "item.morediscs.music_disc_magnetic_circuit": "Music Disc",
-  "item.morediscs.music_disc_magnetic_circuit.desc": "Notch - Magnetic Circuit"
+  "item.morediscs.music_disc_magnetic_circuit.desc": "Notch - Magnetic Circuit",
+
+  "item.morediscs.music_disc_floating_trees": "Music Disc",
+  "item.morediscs.music_disc_floating_trees.desc": "C418 - Floating Trees",
+
+  "item.morediscs.music_disc_moog_city_2": "Music Disc",
+  "item.morediscs.music_disc_moog_city_2.desc": "C418 - Moog City 2",
+
+  "item.morediscs.music_disc_mutation": "Music Disc",
+  "item.morediscs.music_disc_mutation.desc": "C418 - Mutation"
 }
