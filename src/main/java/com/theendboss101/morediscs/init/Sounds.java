@@ -27,6 +27,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
 public class Sounds {
     public static final DeferredRegister<SoundEvent> REGISTRY = DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, MoreDiscsMod.MOD_ID);
 
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_NULL = registerSoundEvents("music_disc.null");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_MAGNETIC_CIRCUIT = registerSoundEvents("music_disc.calm4");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_ALPHA = registerSoundEvents("music_disc.alpha");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_BEGINNING_2 = registerSoundEvents("music_disc.beginning_2");
@@ -39,6 +40,9 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_CREATOR_MUSIC_BOX = registerSoundEvents("music_disc.creator_music_box");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_PRECIPICE = registerSoundEvents("music_disc.precipice");
     //public static final RegistryObject<SoundEvent> MUSIC_DISC_TEARS = registerSoundEvents("music_disc.tears");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_AXOLOTL = registerSoundEvents("music_disc.axolotl");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_DRAGON_FISH = registerSoundEvents("music_disc.dragon_fish");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_SHUNIJI = registerSoundEvents("music_disc.shuniji");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return REGISTRY.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(MoreDiscsMod.MOD_ID, name)));

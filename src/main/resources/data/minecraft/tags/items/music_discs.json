@@ -11,6 +11,10 @@
     "morediscs:music_disc_mutation",
     "morediscs:music_disc_creator",
     "morediscs:music_disc_creator_music_box",
-    "morediscs:music_disc_precipice"
+    "morediscs:music_disc_precipice",
+    "morediscs:music_disc_axolotl",
+    "morediscs:music_disc_dragon_fish",
+    "morediscs:music_disc_shuniji",
+    "morediscs:music_disc_null"
   ]
 }

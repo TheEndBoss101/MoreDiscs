@@ -35,5 +35,14 @@
   "item.morediscs.music_disc_precipice.desc": "Aaron Cherof - Precipice",
 
   "item.morediscs.music_disc_tears": "Music Disc",
-  "item.morediscs.music_disc_tears.desc": "Amos Roddy - Tears"
+  "item.morediscs.music_disc_tears.desc": "Amos Roddy - Tears",
+
+  "item.morediscs.music_disc_axolotl": "Music Disc",
+  "item.morediscs.music_disc_axolotl.desc": "C418 - Axolotl",
+
+  "item.morediscs.music_disc_dragon_fish": "Music Disc",
+  "item.morediscs.music_disc_dragon_fish.desc": "C418 - Dragon Fish",
+
+  "item.morediscs.music_disc_shuniji": "Music Disc",
+  "item.morediscs.music_disc_shuniji.desc": "C418 - Shuniji"
 }

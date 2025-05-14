@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "morediscs:item/music_disc_magnetic_circuit"
+    "layer0": "morediscs:item/music_disc_base_generic",
+    "layer1": "morediscs:item/music_disc_magnetic_circuit"
   }
 }

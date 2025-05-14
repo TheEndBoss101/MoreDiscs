@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "morediscs:item/music_disc_base_generic",
+    "layer0": "morediscs:item/music_disc_base_water",
     "layer1": "morediscs:item/music_disc_base_generic_top"
   }
 }

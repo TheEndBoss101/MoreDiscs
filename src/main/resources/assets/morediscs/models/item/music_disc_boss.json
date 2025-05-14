@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "morediscs:item/music_disc_boss"
+    "layer0": "morediscs:item/music_disc_base_end",
+    "layer1": "morediscs:item/music_disc_base_generic_top"
   }
 }

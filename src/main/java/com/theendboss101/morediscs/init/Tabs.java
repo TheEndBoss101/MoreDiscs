@@ -46,6 +46,9 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_CREATOR_MUSIC_BOX.get());
             tabData.accept(Items.MUSIC_DISC_PRECIPICE.get());
             //tabData.accept(Items.MUSIC_DISC_TEARS.get());
+            tabData.accept(Items.MUSIC_DISC_AXOLOTL.get());
+            tabData.accept(Items.MUSIC_DISC_DRAGON_FISH.get());
+            tabData.accept(Items.MUSIC_DISC_SHUNIJI.get());
         }
     }
 
