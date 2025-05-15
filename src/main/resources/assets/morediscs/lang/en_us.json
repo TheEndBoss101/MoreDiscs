@@ -1,72 +1,49 @@
 {
   "item.morediscs.icon": "Icon",
-
   "item.morediscs.music_disc_alpha": "Music Disc",
   "item.morediscs.music_disc_alpha.desc": "C418 - Alpha",
-
   "item.morediscs.music_disc_beginning_2": "Music Disc",
   "item.morediscs.music_disc_beginning_2.desc": "C418 - Beginning 2",
-
   "item.morediscs.music_disc_boss": "Music Disc",
   "item.morediscs.music_disc_boss.desc": "C418 - Boss",
-
   "item.morediscs.music_disc_the_end": "Music Disc",
   "item.morediscs.music_disc_the_end.desc": "C418 - The End",
-
   "item.morediscs.music_disc_magnetic_circuit": "Music Disc",
   "item.morediscs.music_disc_magnetic_circuit.desc": "Notch - Magnetic Circuit",
-
   "item.morediscs.music_disc_floating_trees": "Music Disc",
   "item.morediscs.music_disc_floating_trees.desc": "C418 - Floating Trees",
-
   "item.morediscs.music_disc_moog_city_2": "Music Disc",
   "item.morediscs.music_disc_moog_city_2.desc": "C418 - Moog City 2",
-
   "item.morediscs.music_disc_mutation": "Music Disc",
   "item.morediscs.music_disc_mutation.desc": "C418 - Mutation",
-
   "item.morediscs.music_disc_creator": "Music Disc",
   "item.morediscs.music_disc_creator.desc": "Lena Raine - Creator",
-
   "item.morediscs.music_disc_creator_music_box": "Music Disc",
   "item.morediscs.music_disc_creator_music_box.desc": "Lena Raine - Creator (Music Box Version)",
-
   "item.morediscs.music_disc_precipice": "Music Disc",
   "item.morediscs.music_disc_precipice.desc": "Aaron Cherof - Precipice",
-
   "item.morediscs.music_disc_tears": "Music Disc",
   "item.morediscs.music_disc_tears.desc": "Amos Roddy - Tears",
-
   "item.morediscs.music_disc_axolotl": "Music Disc",
   "item.morediscs.music_disc_axolotl.desc": "C418 - Axolotl",
-
   "item.morediscs.music_disc_dragon_fish": "Music Disc",
   "item.morediscs.music_disc_dragon_fish.desc": "C418 - Dragon Fish",
-
   "item.morediscs.music_disc_shuniji": "Music Disc",
   "item.morediscs.music_disc_shuniji.desc": "C418 - Shuniji",
-
   "item.morediscs.music_disc_ballad_of_the_cats": "Music Disc",
   "item.morediscs.music_disc_ballad_of_the_cats.desc": "C418 - Ballad of the Cats",
-
   "item.morediscs.music_disc_chrysopoeia": "Music Disc",
   "item.morediscs.music_disc_chrysopoeia.desc": "Lena Raine - Chrysopoeia",
-
   "item.morediscs.music_disc_concrete_halls": "Music Disc",
   "item.morediscs.music_disc_concrete_halls.desc": "C418 - Concrete Halls",
-
   "item.morediscs.music_disc_dead_voxel": "Music Disc",
   "item.morediscs.music_disc_dead_voxel.desc": "C418 - Dead Voxel",
-
   "item.morediscs.music_disc_rubedo": "Music Disc",
   "item.morediscs.music_disc_rubedo.desc": "Lena Raine - Rubedo",
-
   "item.morediscs.music_disc_so_below": "Music Disc",
   "item.morediscs.music_disc_so_below.desc": "Lena Raine - So Below",
-
   "item.morediscs.music_disc_warmth": "Music Disc",
   "item.morediscs.music_disc_warmth.desc": "C418 - Warmth",
-
   "item.morediscs.music_disc_a_familiar_room": "Music Disc",
   "item.morediscs.music_disc_a_familiar_room.desc": "Aaron Cherof - A Familiar Room",
   "item.morediscs.music_disc_bromeliad": "Music Disc",
@@ -75,7 +52,6 @@
   "item.morediscs.music_disc_crescent_dunes.desc": "Aaron Cherof - Crescent Dunes",
   "item.morediscs.music_disc_echo_in_the_wind": "Music Disc",
   "item.morediscs.music_disc_echo_in_the_wind.desc": "Aaron Cherof - Echo in the Wind",
-
   "item.morediscs.music_disc_biome_fest": "Music Disc",
   "item.morediscs.music_disc_biome_fest.desc": "C418 - Biome Fest",
   "item.morediscs.music_disc_blind_spots": "Music Disc",
@@ -88,7 +64,6 @@
   "item.morediscs.music_disc_dreiton.desc": "C418 - Dreiton",
   "item.morediscs.music_disc_taswell": "Music Disc",
   "item.morediscs.music_disc_taswell.desc": "C418 - Taswell",
-
   "item.morediscs.music_disc_aerie": "Music Disc",
   "item.morediscs.music_disc_aerie.desc": "Lena Raine - Aerie",
   "item.morediscs.music_disc_ancestry": "Music Disc",
@@ -108,5 +83,61 @@
   "item.morediscs.music_disc_deeper": "Music Disc",
   "item.morediscs.music_disc_deeper.desc": "Lena Raine - Deeper",
   "item.morediscs.music_disc_dry_hands": "Music Disc",
-  "item.morediscs.music_disc_dry_hands.desc": "C418 - Dry Hands"
+  "item.morediscs.music_disc_dry_hands.desc": "C418 - Dry Hands",
+  "item.morediscs.music_disc_eld_unknown": "Music Disc",
+  "item.morediscs.music_disc_eld_unknown.desc": "Lena Raine - Eld Unknown",
+  "item.morediscs.music_disc_endless": "Music Disc",
+  "item.morediscs.music_disc_endless.desc": "Lena Raine - Endless",
+  "item.morediscs.music_disc_featherfall": "Music Disc",
+  "item.morediscs.music_disc_featherfall.desc": "Aaron Cherof - Featherfall",
+  "item.morediscs.music_disc_firebugs": "Music Disc",
+  "item.morediscs.music_disc_firebugs.desc": "Lena Raine - Firebugs",
+  "item.morediscs.music_disc_fireflies": "Music Disc",
+  "item.morediscs.music_disc_fireflies.desc": "Amos Roddy - Fireflies",
+  "item.morediscs.music_disc_floating_dream": "Music Disc",
+  "item.morediscs.music_disc_floating_dream.desc": "Kumi Tanioka - Floating Dream",
+  "item.morediscs.music_disc_haggstrom": "Music Disc",
+  "item.morediscs.music_disc_haggstrom.desc": "C418 - Haggstrom",
+  "item.morediscs.music_disc_infinite_amethyst": "Music Disc",
+  "item.morediscs.music_disc_infinite_amethyst.desc": "Lena Raine - Infinite Amethyst",
+  "item.morediscs.music_disc_key": "Music Disc",
+  "item.morediscs.music_disc_key.desc": "C418 - Key",
+  "item.morediscs.music_disc_komorebi": "Music Disc",
+  "item.morediscs.music_disc_komorebi.desc": "Kumi Tanioka - Komorebi",
+  "item.morediscs.music_disc_labyrinthine": "Music Disc",
+  "item.morediscs.music_disc_labyrinthine.desc": "Lena Raine - Labyrinthine",
+  "item.morediscs.music_disc_left_to_bloom": "Music Disc",
+  "item.morediscs.music_disc_left_to_bloom.desc": "Lena Raine - Left To Bloom",
+  "item.morediscs.music_disc_lilypad": "Music Disc",
+  "item.morediscs.music_disc_lilypad.desc": "Amos Roddy - Lilypad",
+  "item.morediscs.music_disc_living_mice": "Music Disc",
+  "item.morediscs.music_disc_living_mice.desc": "C418 - Living Mice",
+  "item.morediscs.music_disc_mice_on_venus": "Music Disc",
+  "item.morediscs.music_disc_mice_on_venus.desc": "C418 - Mice On Venus",
+  "item.morediscs.music_disc_minecraft": "Music Disc",
+  "item.morediscs.music_disc_minecraft.desc": "C418 - Minecraft",
+  "item.morediscs.music_disc_one_more_day": "Music Disc",
+  "item.morediscs.music_disc_one_more_day.desc": "Lena Raine - One More Day",
+  "item.morediscs.music_disc_os_piano": "Music Disc",
+  "item.morediscs.music_disc_os_piano.desc": "Amos Roddy - O's Piano",
+  "item.morediscs.music_disc_oxygene": "Music Disc",
+  "item.morediscs.music_disc_oxygene.desc": "C418 - Oxygene",
+  "item.morediscs.music_disc_pokopoko": "Music Disc",
+  "item.morediscs.music_disc_pokopoko.desc": "Kumi Tanioka - pokopoko",
+  "item.morediscs.music_disc_puzzlebox": "Music Disc",
+  "item.morediscs.music_disc_puzzlebox.desc": "Aaron Cherof - Puzzlebox",
+  "item.morediscs.music_disc_stand_tall": "Music Disc",
+  "item.morediscs.music_disc_stand_tall.desc": "Lena Raine - Stand Tall",
+  "item.morediscs.music_disc_subwoofer_lullaby": "Music Disc",
+  "item.morediscs.music_disc_subwoofer_lullaby.desc": "C418 - Subwoofer Lullaby",
+  "item.morediscs.music_disc_sweden": "Music Disc",
+  "item.morediscs.music_disc_sweden.desc": "C418 - Sweden",
+  "item.morediscs.music_disc_watcher": "Music Disc",
+  "item.morediscs.music_disc_watcher.desc": "Aaron Cherof - Watcher",
+  "item.morediscs.music_disc_wending": "Music Disc",
+  "item.morediscs.music_disc_wending.desc": "Lena Raine - Wending",
+  "item.morediscs.music_disc_wet_hands": "Music Disc",
+  "item.morediscs.music_disc_wet_hands.desc": "C418 - Wet Hands",
+  "item.morediscs.music_disc_yakusoku": "Music Disc",
+  "item.morediscs.music_disc_yakusoku.desc": "Kumi Tanioka - Yakusoku"
 }

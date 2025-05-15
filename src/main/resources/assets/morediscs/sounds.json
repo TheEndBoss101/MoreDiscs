@@ -191,7 +191,6 @@
       }
     ]
   },
-
   "music_disc.a_familiar_room": {
     "sounds": [
       {
@@ -228,7 +227,6 @@
       }
     ]
   },
-
   "music_disc.biome_fest": {
     "sounds": [
       {
@@ -277,7 +275,6 @@
       }
     ]
   },
-
   "music_disc.aerie": {
     "sounds": [
       {
@@ -348,6 +345,240 @@
     "sounds": [
       {
         "name": "minecraft:music/game/piano1",
+        "stream": true
+      }
+    ]
+  },
+
+
+  "music_disc.eld_unknown": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.endless": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.featherfall": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.firebugs": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/swamp/firebugs",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.fireflies": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.floating_dream": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.haggstrom": {
+    "sounds": [
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.infinite_amethyst": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/infinite_amethyst",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.key": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nuance1",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.komorebi": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.labyrinthine": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/swamp/labyrinthine",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.left_to_bloom": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.lilypad": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.living_mice": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/hal2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.mice_on_venus": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/piano3",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.minecraft": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/calm1",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.one_more_day": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.os_piano": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.oxygene": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/nuance2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.pokopoko": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.puzzlebox": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.stand_tall": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/stand_tall",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.subwoofer_lullaby": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/hal1",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sweden": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/calm3",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.watcher": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.wending": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/wending",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.wet_hands": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/piano2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.yakusoku": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
         "stream": true
       }
     ]

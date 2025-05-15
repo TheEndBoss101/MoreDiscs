@@ -83,6 +83,36 @@ public class Items {
     public static final RegistryObject<Item> MUSIC_DISC_DEEPER = REGISTRY.register("music_disc_deeper", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_DEEPER.get(), Rarity.RARE, 6060));
     public static final RegistryObject<Item> MUSIC_DISC_DRY_HANDS = REGISTRY.register("music_disc_dry_hands", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_DRY_HANDS.get(), Rarity.RARE, 1360));
 
+    public static final RegistryObject<Item> MUSIC_DISC_ELD_UNKNOWN = REGISTRY.register("music_disc_eld_unknown", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_ELD_UNKNOWN.get(), Rarity.RARE, 5920));
+    public static final RegistryObject<Item> MUSIC_DISC_ENDLESS = REGISTRY.register("music_disc_endless", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_ENDLESS.get(), Rarity.RARE, 8040));
+    public static final RegistryObject<Item> MUSIC_DISC_FEATHERFALL = REGISTRY.register("music_disc_featherfall", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_FEATHERFALL.get(), Rarity.RARE, 6900));
+    public static final RegistryObject<Item> MUSIC_DISC_FIREBUGS = REGISTRY.register("music_disc_firebugs", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_FIREBUGS.get(), Rarity.RARE, 6240));
+    public static final RegistryObject<Item> MUSIC_DISC_FIREFLIES = REGISTRY.register("music_disc_fireflies", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_FIREFLIES.get(), Rarity.RARE, 3100));
+    public static final RegistryObject<Item> MUSIC_DISC_FLOATING_DREAM = REGISTRY.register("music_disc_floating_dream", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_FLOATING_DREAM.get(), Rarity.RARE, 4120));
+    public static final RegistryObject<Item> MUSIC_DISC_HAGGSTROM = REGISTRY.register("music_disc_haggstrom", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_HAGGSTROM.get(), Rarity.RARE, 4080));
+    public static final RegistryObject<Item> MUSIC_DISC_INFINITE_AMETHYST = REGISTRY.register("music_disc_infinite_amethyst", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_INFINITE_AMETHYST.get(), Rarity.RARE, 5420));
+    public static final RegistryObject<Item> MUSIC_DISC_KEY = REGISTRY.register("music_disc_key", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_KEY.get(), Rarity.RARE, 1300));
+    public static final RegistryObject<Item> MUSIC_DISC_KOMOREBI = REGISTRY.register("music_disc_komorebi", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_KOMOREBI.get(), Rarity.RARE, 5760));
+    public static final RegistryObject<Item> MUSIC_DISC_LABYRINTHINE = REGISTRY.register("music_disc_labyrinthine", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_LABYRINTHINE.get(), Rarity.RARE, 6480));
+    public static final RegistryObject<Item> MUSIC_DISC_LEFT_TO_BLOOM = REGISTRY.register("music_disc_left_to_bloom", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_LEFT_TO_BLOOM.get(), Rarity.RARE, 6840));
+    public static final RegistryObject<Item> MUSIC_DISC_LILYPAD = REGISTRY.register("music_disc_lilypad", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_LILYPAD.get(), Rarity.RARE, 4700));
+    public static final RegistryObject<Item> MUSIC_DISC_LIVING_MICE = REGISTRY.register("music_disc_living_mice", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_LIVING_MICE.get(), Rarity.RARE, 3540));
+    public static final RegistryObject<Item> MUSIC_DISC_MICE_ON_VENUS = REGISTRY.register("music_disc_mice_on_venus", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_MICE_ON_VENUS.get(), Rarity.RARE, 5620));
+    public static final RegistryObject<Item> MUSIC_DISC_MINECRAFT = REGISTRY.register("music_disc_minecraft", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_MINECRAFT.get(), Rarity.RARE, 5080));
+    public static final RegistryObject<Item> MUSIC_DISC_ONE_MORE_DAY = REGISTRY.register("music_disc_one_more_day", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_ONE_MORE_DAY.get(), Rarity.RARE, 5560));
+    public static final RegistryObject<Item> MUSIC_DISC_OS_PIANO = REGISTRY.register("music_disc_os_piano", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_OS_PIANO.get(), Rarity.RARE, 5500));
+    public static final RegistryObject<Item> MUSIC_DISC_OXYGENE = REGISTRY.register("music_disc_oxygene", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_OXYGENE.get(), Rarity.RARE, 1300));
+    public static final RegistryObject<Item> MUSIC_DISC_POKOPOKO = REGISTRY.register("music_disc_pokopoko", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_POKOPOKO.get(), Rarity.RARE, 6080));
+    public static final RegistryObject<Item> MUSIC_DISC_PUZZLEBOX = REGISTRY.register("music_disc_puzzlebox", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_PUZZLEBOX.get(), Rarity.RARE, 5980));
+    public static final RegistryObject<Item> MUSIC_DISC_STAND_TALL = REGISTRY.register("music_disc_stand_tall", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_STAND_TALL.get(), Rarity.RARE, 6160));
+    public static final RegistryObject<Item> MUSIC_DISC_SUBWOOFER_LULLABY = REGISTRY.register("music_disc_subwoofer_lullaby", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_SUBWOOFER_LULLABY.get(), Rarity.RARE, 4160));
+    public static final RegistryObject<Item> MUSIC_DISC_SWEDEN = REGISTRY.register("music_disc_sweden", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_SWEDEN.get(), Rarity.RARE, 4300));
+    public static final RegistryObject<Item> MUSIC_DISC_WATCHER = REGISTRY.register("music_disc_watcher", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_WATCHER.get(), Rarity.RARE, 6640));
+    public static final RegistryObject<Item> MUSIC_DISC_WENDING = REGISTRY.register("music_disc_wending", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_WENDING.get(), Rarity.RARE, 6280));
+    public static final RegistryObject<Item> MUSIC_DISC_WET_HANDS = REGISTRY.register("music_disc_wet_hands", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_WET_HANDS.get(), Rarity.RARE, 1800));
+    public static final RegistryObject<Item> MUSIC_DISC_YAKUSOKU = REGISTRY.register("music_disc_yakusoku", () -> DiscFactory.createDisc(0, Sounds.MUSIC_DISC_YAKUSOKU.get(), Rarity.RARE, 5420));
+
+
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);
     }

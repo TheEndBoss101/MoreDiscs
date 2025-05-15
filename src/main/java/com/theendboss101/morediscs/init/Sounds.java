@@ -72,6 +72,34 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_DEEPER = registerSoundEvents("music_disc.deeper");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_DRY_HANDS= registerSoundEvents("music_disc.dry_hands");
 
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_ELD_UNKNOWN = registerSoundEvents("music_disc.eld_unknown");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_ENDLESS = registerSoundEvents("music_disc.endless");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_FEATHERFALL = registerSoundEvents("music_disc.featherfall");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_FIREBUGS = registerSoundEvents("music_disc.firebugs");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_FIREFLIES = registerSoundEvents("music_disc.fireflies");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_FLOATING_DREAM = registerSoundEvents("music_disc.floating_dream");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_HAGGSTROM = registerSoundEvents("music_disc.haggstrom");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_INFINITE_AMETHYST = registerSoundEvents("music_disc.infinite_amethyst");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_KEY = registerSoundEvents("music_disc.key");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_KOMOREBI = registerSoundEvents("music_disc.komorebi");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_LABYRINTHINE = registerSoundEvents("music_disc.labyrinthine");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_LEFT_TO_BLOOM = registerSoundEvents("music_disc.left_to_bloom");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_LILYPAD = registerSoundEvents("music_disc.lilypad");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_LIVING_MICE = registerSoundEvents("music_disc.living_mice");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_MICE_ON_VENUS = registerSoundEvents("music_disc.mice_on_venus");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_MINECRAFT = registerSoundEvents("music_disc.minecraft");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_ONE_MORE_DAY = registerSoundEvents("music_disc.one_more_day");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_OS_PIANO = registerSoundEvents("music_disc.os_piano");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_OXYGENE = registerSoundEvents("music_disc.oxygene");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_POKOPOKO = registerSoundEvents("music_disc.pokopoko");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_PUZZLEBOX = registerSoundEvents("music_disc.puzzlebox");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_STAND_TALL = registerSoundEvents("music_disc.stand_tall");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_SUBWOOFER_LULLABY = registerSoundEvents("music_disc.subwoofer_lullaby");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_SWEDEN = registerSoundEvents("music_disc.sweden");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_WATCHER = registerSoundEvents("music_disc.watcher");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_WENDING = registerSoundEvents("music_disc.wending");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_WET_HANDS = registerSoundEvents("music_disc.wet_hands");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_YAKUSOKU = registerSoundEvents("music_disc.yakusoku");
 
 
 
