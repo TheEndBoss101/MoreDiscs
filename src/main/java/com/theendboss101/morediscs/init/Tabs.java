@@ -52,22 +52,18 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_CLARK.get());
             tabData.accept(Items.MUSIC_DISC_COMFORTING_MEMORIES.get());
             tabData.accept(Items.MUSIC_DISC_DANNY.get());
-            //tabData.accept(Items.MUSIC_DISC_DEEPER.get());
+            tabData.accept(Items.MUSIC_DISC_DEEPER.get());
             tabData.accept(Items.MUSIC_DISC_DRY_HANDS.get());
-
-
-
-
-            //tabData.accept(Items.MUSIC_DISC_ELD_UNKNOWN.get());
-            //tabData.accept(Items.MUSIC_DISC_ENDLESS.get());
-            //tabData.accept(Items.MUSIC_DISC_FEATHERFALL.get());
+            tabData.accept(Items.MUSIC_DISC_ELD_UNKNOWN.get());
+            tabData.accept(Items.MUSIC_DISC_ENDLESS.get());
+            tabData.accept(Items.MUSIC_DISC_FEATHERFALL.get());
             tabData.accept(Items.MUSIC_DISC_FIREBUGS.get());
             //tabData.accept(Items.MUSIC_DISC_FIREFLIES.get());
             tabData.accept(Items.MUSIC_DISC_FLOATING_DREAM.get());
             tabData.accept(Items.MUSIC_DISC_HAGGSTROM.get());
             tabData.accept(Items.MUSIC_DISC_INFINITE_AMETHYST.get());
             tabData.accept(Items.MUSIC_DISC_KEY.get());
-            //tabData.accept(Items.MUSIC_DISC_KOMOREBI.get());
+            tabData.accept(Items.MUSIC_DISC_KOMOREBI.get());
             tabData.accept(Items.MUSIC_DISC_LABYRINTHINE.get());
             tabData.accept(Items.MUSIC_DISC_LEFT_TO_BLOOM.get());
             //tabData.accept(Items.MUSIC_DISC_LILYPAD.get());
@@ -77,15 +73,15 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_ONE_MORE_DAY.get());
             //tabData.accept(Items.MUSIC_DISC_OS_PIANO.get());
             tabData.accept(Items.MUSIC_DISC_OXYGENE.get());
-            //tabData.accept(Items.MUSIC_DISC_POKOPOKO.get());
-            //tabData.accept(Items.MUSIC_DISC_PUZZLEBOX.get());
+            tabData.accept(Items.MUSIC_DISC_POKOPOKO.get());
+            tabData.accept(Items.MUSIC_DISC_PUZZLEBOX.get());
             tabData.accept(Items.MUSIC_DISC_STAND_TALL.get());
             tabData.accept(Items.MUSIC_DISC_SUBWOOFER_LULLABY.get());
             tabData.accept(Items.MUSIC_DISC_SWEDEN.get());
-            //tabData.accept(Items.MUSIC_DISC_WATCHER.get());
+            tabData.accept(Items.MUSIC_DISC_WATCHER.get());
             tabData.accept(Items.MUSIC_DISC_WENDING.get());
             tabData.accept(Items.MUSIC_DISC_WET_HANDS.get());
-            //tabData.accept(Items.MUSIC_DISC_YAKUSOKU.get());
+            tabData.accept(Items.MUSIC_DISC_YAKUSOKU.get());
 
 
 

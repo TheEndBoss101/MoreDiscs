@@ -300,6 +300,14 @@
       }
     ]
   },
+  "music_disc.below_and_above": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.broken_clocks": {
     "sounds": [
       {
@@ -335,7 +343,7 @@
   "music_disc.deeper": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
+        "name": "morediscs:music/game/deeper",
         "stream": true,
         "volume": 0.4
       }
@@ -349,29 +357,30 @@
       }
     ]
   },
-
-
   "music_disc.eld_unknown": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/eld_unknown",
+        "stream": true,
+        "volume": 0.4
       }
     ]
   },
   "music_disc.endless": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/endless",
+        "stream": true,
+        "volume": 0.4
       }
     ]
   },
   "music_disc.featherfall": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/featherfall",
+        "stream": true,
+        "volume": 0.4
       }
     ]
   },
@@ -429,8 +438,9 @@
   "music_disc.komorebi": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/komorebi",
+        "stream": true,
+        "volume": 0.8
       }
     ]
   },
@@ -512,16 +522,18 @@
   "music_disc.pokopoko": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/pokopoko",
+        "stream": true,
+        "volume": 0.8
       }
     ]
   },
   "music_disc.puzzlebox": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/puzzlebox",
+        "stream": true,
+        "volume": 0.4
       }
     ]
   },
@@ -553,8 +565,9 @@
   "music_disc.watcher": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/watcher",
+        "stream": true,
+        "volume": 0.4
       }
     ]
   },
@@ -578,8 +591,9 @@
   "music_disc.yakusoku": {
     "sounds": [
       {
-        "name": "morediscs:records/blank10min",
-        "stream": true
+        "name": "morediscs:music/game/yakusoku",
+        "stream": true,
+        "volume": 0.8
       }
     ]
   }

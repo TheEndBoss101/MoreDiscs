@@ -60,6 +60,16 @@
     "morediscs:music_disc_subwoofer_lullaby",
     "morediscs:music_disc_sweden",
     "morediscs:music_disc_wending",
-    "morediscs:music_disc_wet_hands"
+    "morediscs:music_disc_wet_hands",
+
+    "morediscs:music_disc_deeper",
+    "morediscs:music_disc_eld_unknown",
+    "morediscs:music_disc_endless",
+    "morediscs:music_disc_featherfall",
+    "morediscs:music_disc_komorebi",
+    "morediscs:music_disc_pokopoko",
+    "morediscs:music_disc_puzzlebox",
+    "morediscs:music_disc_watcher",
+    "morediscs:music_disc_yakusoku"
   ]
 }
