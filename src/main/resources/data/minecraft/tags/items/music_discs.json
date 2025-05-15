@@ -4,7 +4,7 @@
     "morediscs:music_disc_alpha",
     "morediscs:music_disc_magnetic_circuit",
     "morediscs:music_disc_boss",
-    "morediscs:music_disc_end",
+    "morediscs:music_disc_the_end",
     "morediscs:music_disc_beginning_2",
     "morediscs:music_disc_floating_trees",
     "morediscs:music_disc_moog_city_2",
@@ -12,6 +12,7 @@
     "morediscs:music_disc_creator",
     "morediscs:music_disc_creator_music_box",
     "morediscs:music_disc_precipice",
+    "morediscs:music_disc_tears",
     "morediscs:music_disc_axolotl",
     "morediscs:music_disc_dragon_fish",
     "morediscs:music_disc_shuniji",
@@ -32,6 +33,16 @@
     "morediscs:music_disc_haunt_muskie",
     "morediscs:music_disc_aria_math",
     "morediscs:music_disc_dreiton",
-    "morediscs:music_disc_taswell"
+    "morediscs:music_disc_taswell",
+    "morediscs:music_disc_aerie",
+    "morediscs:music_disc_ancestry",
+    "morediscs:music_disc_an_ordinary_day",
+    "morediscs:music_disc_below_and_above",
+    "morediscs:music_disc_broken_clocks",
+    "morediscs:music_disc_clark",
+    "morediscs:music_disc_comforting_memories",
+    "morediscs:music_disc_danny",
+    "morediscs:music_disc_deeper",
+    "morediscs:music_disc_dry_hands"
   ]
 }

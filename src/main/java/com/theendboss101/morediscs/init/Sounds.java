@@ -32,14 +32,14 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_ALPHA = registerSoundEvents("music_disc.alpha");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_BEGINNING_2 = registerSoundEvents("music_disc.beginning_2");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_BOSS = registerSoundEvents("music_disc.boss");
-    public static final RegistryObject<SoundEvent> MUSIC_DISC_END = registerSoundEvents("music_disc.end");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_THE_END = registerSoundEvents("music_disc.the_end");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_FLOATING_TREES = registerSoundEvents("music_disc.floating_trees");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_MOOG_CITY_2 = registerSoundEvents("music_disc.moog_city_2");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_MUTATION = registerSoundEvents("music_disc.mutation");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_CREATOR = registerSoundEvents("music_disc.creator");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_CREATOR_MUSIC_BOX = registerSoundEvents("music_disc.creator_music_box");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_PRECIPICE = registerSoundEvents("music_disc.precipice");
-    //public static final RegistryObject<SoundEvent> MUSIC_DISC_TEARS = registerSoundEvents("music_disc.tears");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_TEARS = registerSoundEvents("music_disc.tears");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_AXOLOTL = registerSoundEvents("music_disc.axolotl");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_DRAGON_FISH = registerSoundEvents("music_disc.dragon_fish");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_SHUNIJI = registerSoundEvents("music_disc.shuniji");
@@ -60,6 +60,19 @@ public class Sounds {
     public static final RegistryObject<SoundEvent> MUSIC_DISC_ARIA_MATH = registerSoundEvents("music_disc.aria_math");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_DREITON = registerSoundEvents("music_disc.dreiton");
     public static final RegistryObject<SoundEvent> MUSIC_DISC_TASWELL = registerSoundEvents("music_disc.taswell");
+
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_AERIE = registerSoundEvents("music_disc.aerie");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_ANCESTRY = registerSoundEvents("music_disc.ancestry");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_AN_ORDINARY_DAY = registerSoundEvents("music_disc.an_ordinary_day");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_BELOW_AND_ABOVE = registerSoundEvents("music_disc.below_and_above");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_BROKEN_CLOCKS = registerSoundEvents("music_disc.broken_clocks");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_CLARK = registerSoundEvents("music_disc.clark");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_COMFORTING_MEMORIES = registerSoundEvents("music_disc.comforting_memories");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_DANNY= registerSoundEvents("music_disc.danny");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_DEEPER = registerSoundEvents("music_disc.deeper");
+    public static final RegistryObject<SoundEvent> MUSIC_DISC_DRY_HANDS= registerSoundEvents("music_disc.dry_hands");
+
+
 
 
 

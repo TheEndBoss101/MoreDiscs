@@ -32,6 +32,15 @@
       }
     ]
   },
+  "music_disc.tears": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
   "music_disc.alpha": {
     "sounds": [
       {
@@ -56,7 +65,7 @@
       }
     ]
   },
-  "music_disc.end": {
+  "music_disc.the_end": {
     "sounds": [
       {
         "name": "minecraft:music/game/end/end",
@@ -118,7 +127,7 @@
   "music_disc.null": {
     "sounds": [
       {
-        "name": "minecraft:records/blank10min",
+        "name": "morediscs:records/blank10min",
         "stream": true
       }
     ]
@@ -264,6 +273,81 @@
     "sounds": [
       {
         "name": "minecraft:music/game/creative/creative6",
+        "stream": true
+      }
+    ]
+  },
+
+  "music_disc.aerie": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/swamp/aerie",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.ancestry": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/ancestry",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.an_ordinary_day": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.broken_clocks": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.clark": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/calm2",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.comforting_memories": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/comforting_memories",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.danny": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/hal4",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.deeper": {
+    "sounds": [
+      {
+        "name": "morediscs:records/blank10min",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music_disc.dry_hands": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/piano1",
         "stream": true
       }
     ]

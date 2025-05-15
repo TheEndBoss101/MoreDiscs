@@ -10,8 +10,8 @@
   "item.morediscs.music_disc_boss": "Music Disc",
   "item.morediscs.music_disc_boss.desc": "C418 - Boss",
 
-  "item.morediscs.music_disc_end": "Music Disc",
-  "item.morediscs.music_disc_end.desc": "C418 - The End",
+  "item.morediscs.music_disc_the_end": "Music Disc",
+  "item.morediscs.music_disc_the_end.desc": "C418 - The End",
 
   "item.morediscs.music_disc_magnetic_circuit": "Music Disc",
   "item.morediscs.music_disc_magnetic_circuit.desc": "Notch - Magnetic Circuit",
@@ -87,5 +87,26 @@
   "item.morediscs.music_disc_dreiton": "Music Disc",
   "item.morediscs.music_disc_dreiton.desc": "C418 - Dreiton",
   "item.morediscs.music_disc_taswell": "Music Disc",
-  "item.morediscs.music_disc_taswell.desc": "C418 - Taswell"
+  "item.morediscs.music_disc_taswell.desc": "C418 - Taswell",
+
+  "item.morediscs.music_disc_aerie": "Music Disc",
+  "item.morediscs.music_disc_aerie.desc": "Lena Raine - Aerie",
+  "item.morediscs.music_disc_ancestry": "Music Disc",
+  "item.morediscs.music_disc_ancestry.desc": "Lena Raine - Ancestry",
+  "item.morediscs.music_disc_an_ordinary_day": "Music Disc",
+  "item.morediscs.music_disc_an_ordinary_day.desc": "Kumi Tanioka - An Ordinary Day",
+  "item.morediscs.music_disc_below_and_above": "Music Disc",
+  "item.morediscs.music_disc_below_and_above.desc": "Amos Roddy - Below and Above",
+  "item.morediscs.music_disc_broken_clocks": "Music Disc",
+  "item.morediscs.music_disc_broken_clocks.desc": "Amos Roddy - Broken Clocks",
+  "item.morediscs.music_disc_clark": "Music Disc",
+  "item.morediscs.music_disc_clark.desc": "C418 - Clark",
+  "item.morediscs.music_disc_comforting_memories": "Music Disc",
+  "item.morediscs.music_disc_comforting_memories.desc": "Kumi Tanioka - Comforting Memories",
+  "item.morediscs.music_disc_danny": "Music Disc",
+  "item.morediscs.music_disc_danny.desc": "C418 - Danny",
+  "item.morediscs.music_disc_deeper": "Music Disc",
+  "item.morediscs.music_disc_deeper.desc": "Lena Raine - Deeper",
+  "item.morediscs.music_disc_dry_hands": "Music Disc",
+  "item.morediscs.music_disc_dry_hands.desc": "C418 - Dry Hands"
 }

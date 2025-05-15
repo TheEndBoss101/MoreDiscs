@@ -44,6 +44,17 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_BROMELIAD.get());
             tabData.accept(Items.MUSIC_DISC_CRESCENT_DUNES.get());
             tabData.accept(Items.MUSIC_DISC_ECHO_IN_THE_WIND.get());
+            tabData.accept(Items.MUSIC_DISC_AERIE.get());
+            tabData.accept(Items.MUSIC_DISC_ANCESTRY.get());
+            tabData.accept(Items.MUSIC_DISC_AN_ORDINARY_DAY.get());
+            //tabData.accept(Items.MUSIC_DISC_BELOW_AND_ABOVE.get());
+            //tabData.accept(Items.MUSIC_DISC_BROKEN_CLOCKS.get());
+            tabData.accept(Items.MUSIC_DISC_CLARK.get());
+            tabData.accept(Items.MUSIC_DISC_COMFORTING_MEMORIES.get());
+            tabData.accept(Items.MUSIC_DISC_DANNY.get());
+            //tabData.accept(Items.MUSIC_DISC_DEEPER.get());
+            tabData.accept(Items.MUSIC_DISC_DRY_HANDS.get());
+
 
             // Creative
             tabData.accept(Items.MUSIC_DISC_BIOME_FEST.get());
@@ -67,7 +78,7 @@ public class Tabs {
             tabData.accept(Items.MUSIC_DISC_WARMTH.get());
             // End
             tabData.accept(Items.MUSIC_DISC_BOSS.get());
-            tabData.accept(Items.MUSIC_DISC_END.get());
+            tabData.accept(Items.MUSIC_DISC_THE_END.get());
             // End Poem
             tabData.accept(Items.MUSIC_DISC_ALPHA.get());
             // Removed
